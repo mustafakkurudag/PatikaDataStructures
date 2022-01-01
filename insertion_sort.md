@@ -10,17 +10,17 @@
 >Big-O(n^2)
 
 3. Time Complexity:
-> Time Complexity
+
+> Average case: Aradığımız sayının ortada olması (16, 18) <br>
+> Worst Case: O(n^2) Aradığımız sayının sonda olması (27) <br>
+> Best Case: O(n) Aradığımız sayının başta olması (2)<br>
 
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-
-> Average case: O(n^2)
-> Worst Case: O(n^2)
-> Best Case: O(n)
+>Average case
 
 5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-> [2,3,5,8,7,9,4,15,6]
-> [2,3,4,8,7,9,5,15,6]
-> [2,3,4,5,7,9,8,15,6]
-> [2,3,4,5,6,9,8,15,7]
+> [2,3,5,8,7,9,4,15,6]<br>
+> [2,3,4,8,7,9,5,15,6]<br>
+> [2,3,4,5,7,9,8,15,6]<br>
+> [2,3,4,5,6,9,8,15,7]<br>
